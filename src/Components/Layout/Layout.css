@@ -1,0 +1,64 @@
+.Layout {
+  color: blue;
+  display: inline-block;
+  margin: 25px 10px;
+  background: white;
+  height: 500px;
+
+}
+
+.title {
+  color: #d6ebc3;
+  padding: 50px;
+  text-align: center;
+  background: grey;
+  font-size: 30px;
+  border-radius: 10px;
+  font-family: Helvetica, sans-serif;
+}
+
+.total {
+  color: white;
+  padding: 40px;
+  background: #a2d9ff;
+  text-align: center;
+  border-radius: 10px;
+  width: 290px;
+  font-size: 20px;
+}
+.first {
+  color: blue;
+}
+
+.button {
+  background-color:transparent !important;
+  border:none !important;
+}
+
+.root {
+  justify-content: space-between;
+  margin: 10px auto;
+  padding: 20px 0;
+  display: block;
+}
+
+.hi {
+
+  margin-bottom: 8px;
+}
+
+.hii {
+  padding: 10px;
+  margin-bottom: 8px;
+}
+
+.wave-container {
+  position: relative;
+  background: #a2d9ff;
+  color: #FFF;
+  text-align: center;
+  overflow: hidden;
+}
+.wave-container svg {
+  display: block;
+}
