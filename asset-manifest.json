@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FriendsSplit/static/css/main.a920d400.chunk.css",
-    "main.js": "/FriendsSplit/static/js/main.2159f842.chunk.js",
-    "main.js.map": "/FriendsSplit/static/js/main.2159f842.chunk.js.map",
+    "main.css": "/FriendsSplit/static/css/main.e17d5aa0.chunk.css",
+    "main.js": "/FriendsSplit/static/js/main.61331cde.chunk.js",
+    "main.js.map": "/FriendsSplit/static/js/main.61331cde.chunk.js.map",
     "runtime-main.js": "/FriendsSplit/static/js/runtime-main.52f74074.js",
     "runtime-main.js.map": "/FriendsSplit/static/js/runtime-main.52f74074.js.map",
     "static/js/2.e4df78c9.chunk.js": "/FriendsSplit/static/js/2.e4df78c9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.659250c1.chunk.js": "/FriendsSplit/static/js/3.659250c1.chunk.js",
     "static/js/3.659250c1.chunk.js.map": "/FriendsSplit/static/js/3.659250c1.chunk.js.map",
     "index.html": "/FriendsSplit/index.html",
-    "static/css/main.a920d400.chunk.css.map": "/FriendsSplit/static/css/main.a920d400.chunk.css.map",
+    "static/css/main.e17d5aa0.chunk.css.map": "/FriendsSplit/static/css/main.e17d5aa0.chunk.css.map",
     "static/js/2.e4df78c9.chunk.js.LICENSE.txt": "/FriendsSplit/static/js/2.e4df78c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.52f74074.js",
     "static/js/2.e4df78c9.chunk.js",
-    "static/css/main.a920d400.chunk.css",
-    "static/js/main.2159f842.chunk.js"
+    "static/css/main.e17d5aa0.chunk.css",
+    "static/js/main.61331cde.chunk.js"
   ]
 }
